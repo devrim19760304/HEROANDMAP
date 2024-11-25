@@ -1,4 +1,5 @@
 //object constructor to create Hero
+//same can be created with class too
 
 function Hero(name, x = 0, y = 0) {
   this.name = name;
